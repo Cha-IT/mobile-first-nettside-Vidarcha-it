@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaféens Meny</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Velkommen til Lokal Kafé</h1>
+    </header>
+    
+    <section id="menu">
+        <h2>Meny</h2>
+        <div id="menu-items"></div>
+    </section>
+    
+    <section id="order">
+        <h2>Bestillingsskjema</h2>
+        <form id="order-form">
+            <label for="name">Navn:</label>
+            <input type="text" id="name" required>
+            <label for="phone">Telefon:</label>
+            <input type="tel" id="phone" required>
+            <button type="submit">Send bestilling</button>
+        </form>
+        <div id="order-list"></div>
+    </section>
+    
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Adresse: Hovedgata 1, 1234 Byen</p>
+        <p>Telefon: 12345678</p>
+        <iframe src="https://www.google.com/maps/embed?..." width="100%" height="300" style="border:0;" allowfullscreen></iframe>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>
