@@ -1,24 +1,7 @@
-{
-    "meny": [
-      {
-        "id": 1,
-        "navn": "Pizza",
-        "pris": 150,
-        "beskrivelse": "Deilig italiensk pizza med ost og skinke"
-      },
-      {
-        "id": 2,
-        "navn": "Burger",
-        "pris": 100,
-        "beskrivelse": "Saftig cheeseburger med fries"
-      },
-      {
-        "id": 3,
-        "navn": "Pasta",
-        "pris": 130,
-        "beskrivelse": "Pasta med kremet saus og kylling"
-      }
-    ],
-    "bestillinger": []
-  }
+[
+    { "navn": "Cappuccino", "pris": 42 },
+    { "navn": "Latte", "pris": 45 },
+    { "navn": "Croissant", "pris": 29 },
+    { "navn": "Smoothie", "pris": 55 }
+  ]
   
