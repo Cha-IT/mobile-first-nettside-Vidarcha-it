@@ -1,0 +1,7 @@
+[
+    { "navn": "Cappuccino", "pris": 42 },
+    { "navn": "Latte", "pris": 45 },
+    { "navn": "Croissant", "pris": 29 },
+    { "navn": "Smoothie", "pris": 55 }
+  ]
+    
